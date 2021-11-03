@@ -1,2 +1,2 @@
-# megamanster.github.io
+# andyzyang.github.io
 Andy's website
