@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Zongye(Andy) Yang
+
+I am a computer science graduate from UTSC. I am proficient with many programming languages and I am excited to learn new technologies. I have co-op software development experience and I am aiming to make a difference in the industry! 
 
 You can use the [editor on GitHub](https://github.com/andyzyang/andyzyang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
